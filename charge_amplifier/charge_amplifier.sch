@@ -76,9 +76,15 @@ L R R1
 U 1 1 5A164FEA
 P 2250 3850
 F 0 "R1" V 2330 3850 50  0000 C CNN
-F 1 "R" V 2250 3850 50  0000 C CNN
+F 1 "200" V 2250 3850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 2180 3850 50  0001 C CNN
 F 3 "" H 2250 3850 50  0001 C CNN
+F 4 "Value" H 2250 3850 60  0001 C CNN "MFG Name"
+F 5 "Value" H 2250 3850 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 2250 3850 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 2250 3850 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 2250 3850 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 2250 3850 60  0001 C CNN "2nd Distrib Link"
 	1    2250 3850
 	0    1    1    0   
 $EndComp
@@ -87,9 +93,15 @@ L R R2
 U 1 1 5A165061
 P 2800 3850
 F 0 "R2" V 2880 3850 50  0000 C CNN
-F 1 "R" V 2800 3850 50  0000 C CNN
+F 1 "0R0" V 2800 3850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 2730 3850 50  0001 C CNN
 F 3 "" H 2800 3850 50  0001 C CNN
+F 4 "Value" H 2800 3850 60  0001 C CNN "MFG Name"
+F 5 "Value" H 2800 3850 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 2800 3850 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 2800 3850 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 2800 3850 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 2800 3850 60  0001 C CNN "2nd Distrib Link"
 	1    2800 3850
 	0    1    1    0   
 $EndComp
@@ -98,9 +110,15 @@ L R R3
 U 1 1 5A16508E
 P 3350 3850
 F 0 "R3" V 3430 3850 50  0000 C CNN
-F 1 "R" V 3350 3850 50  0000 C CNN
+F 1 "0R0" V 3350 3850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 3280 3850 50  0001 C CNN
 F 3 "" H 3350 3850 50  0001 C CNN
+F 4 "Value" H 3350 3850 60  0001 C CNN "MFG Name"
+F 5 "Value" H 3350 3850 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 3350 3850 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 3350 3850 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 3350 3850 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 3350 3850 60  0001 C CNN "2nd Distrib Link"
 	1    3350 3850
 	0    1    1    0   
 $EndComp
@@ -211,7 +229,7 @@ L R R9
 U 1 1 5A1654D0
 P 6350 3625
 F 0 "R9" V 6430 3625 50  0000 C CNN
-F 1 "R" V 6350 3625 50  0000 C CNN
+F 1 "10k" V 6350 3625 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 6280 3625 50  0001 C CNN
 F 3 "" H 6350 3625 50  0001 C CNN
 F 4 "Value" H 6350 3625 60  0001 C CNN "MFG Name"
@@ -262,7 +280,7 @@ L C C7
 U 1 1 5A165954
 P 5025 2325
 F 0 "C7" H 5050 2425 50  0000 L CNN
-F 1 "0.1u" H 5050 2225 50  0000 L CNN
+F 1 "0.022u" H 4925 2225 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 5063 2175 50  0001 C CNN
 F 3 "" H 5025 2325 50  0001 C CNN
 F 4 "Value" H 5025 2325 60  0001 C CNN "MFG Name"
@@ -279,7 +297,7 @@ L C C3
 U 1 1 5A1659A8
 P 4625 2325
 F 0 "C3" H 4650 2425 50  0000 L CNN
-F 1 "0.1u" H 4650 2225 50  0000 L CNN
+F 1 "0R0" H 4650 2225 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 4663 2175 50  0001 C CNN
 F 3 "" H 4625 2325 50  0001 C CNN
 F 4 "Value" H 4625 2325 60  0001 C CNN "MFG Name"
@@ -296,9 +314,15 @@ L R R6
 U 1 1 5A165A10
 P 4625 2100
 F 0 "R6" V 4705 2100 50  0000 C CNN
-F 1 "R" V 4625 2100 50  0000 C CNN
+F 1 "50M" V 4625 2100 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 4555 2100 50  0001 C CNN
 F 3 "" H 4625 2100 50  0001 C CNN
+F 4 "Value" H 4625 2100 60  0001 C CNN "MFG Name"
+F 5 "Value" H 4625 2100 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 4625 2100 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 4625 2100 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 4625 2100 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 4625 2100 60  0001 C CNN "2nd Distrib Link"
 	1    4625 2100
 	0    1    1    0   
 $EndComp
@@ -307,9 +331,15 @@ L R R8
 U 1 1 5A165A9B
 P 5025 2100
 F 0 "R8" V 5105 2100 50  0000 C CNN
-F 1 "R" V 5025 2100 50  0000 C CNN
+F 1 "0R0" V 5025 2100 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 4955 2100 50  0001 C CNN
 F 3 "" H 5025 2100 50  0001 C CNN
+F 4 "Value" H 5025 2100 60  0001 C CNN "MFG Name"
+F 5 "Value" H 5025 2100 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 5025 2100 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 5025 2100 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 5025 2100 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 5025 2100 60  0001 C CNN "2nd Distrib Link"
 	1    5025 2100
 	0    1    1    0   
 $EndComp
@@ -397,16 +427,22 @@ L R R11
 U 1 1 5A1663B3
 P 7575 4150
 F 0 "R11" V 7655 4150 50  0000 C CNN
-F 1 "R" V 7575 4150 50  0000 C CNN
+F 1 "0R0" V 7575 4150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 7505 4150 50  0001 C CNN
 F 3 "" H 7575 4150 50  0001 C CNN
+F 4 "Value" H 7575 4150 60  0001 C CNN "MFG Name"
+F 5 "Value" H 7575 4150 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 7575 4150 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 7575 4150 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 7575 4150 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 7575 4150 60  0001 C CNN "2nd Distrib Link"
 	1    7575 4150
 	0    1    1    0   
 $EndComp
 Text Notes 4075 1550 0    60   ~ 0
 Optional T-network configuration.\nOnly use if tempco makes a single\nhigh value resistor impractical. Network\nwill increase noise and drift.
 Text Notes 6500 4525 0    60   ~ 0
-Sallen-Key anti-aliasing filter.
+Sallen-Key Low Pass (anti-aliasing) filter.\nCutoff 1125 Hz
 $Comp
 L GNDA #PWR02
 U 1 1 5A1667AE
@@ -604,9 +640,6 @@ Connection ~ 4825 2100
 Wire Wire Line
 	4475 2100 4325 2100
 Wire Wire Line
-	4325 2100 4325 3650
-Connection ~ 4325 3650
-Wire Wire Line
 	4475 2325 4325 2325
 Connection ~ 4325 2325
 Wire Wire Line
@@ -620,7 +653,7 @@ Connection ~ 5275 2550
 Wire Wire Line
 	4875 2550 4775 2550
 Wire Wire Line
-	4475 2550 4325 2550
+	4325 2550 4475 2550
 Connection ~ 4325 2550
 Wire Wire Line
 	4825 1750 4825 1650
@@ -697,7 +730,7 @@ L R R10
 U 1 1 5A16E9F8
 P 6750 3625
 F 0 "R10" V 6830 3625 50  0000 C CNN
-F 1 "R" V 6750 3625 50  0000 C CNN
+F 1 "10k" V 6750 3625 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603_HandSoldering" V 6680 3625 50  0001 C CNN
 F 3 "" H 6750 3625 50  0001 C CNN
 F 4 "Value" H 6750 3625 60  0001 C CNN "MFG Name"
@@ -713,8 +746,8 @@ $Comp
 L C C9
 U 1 1 5A16ED57
 P 7000 3825
-F 0 "C9" H 7025 3925 50  0000 L CNN
-F 1 "C" H 7025 3725 50  0000 L CNN
+F 0 "C9" H 6900 3925 50  0000 L CNN
+F 1 "0.01u" H 6775 3750 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7038 3675 50  0001 C CNN
 F 3 "" H 7000 3825 50  0001 C CNN
 F 4 "Value" H 7000 3825 60  0001 C CNN "MFG Name"
@@ -754,7 +787,7 @@ Wire Wire Line
 Wire Wire Line
 	7950 4150 7725 4150
 Wire Wire Line
-	7950 3225 7950 4150
+	7950 2900 7950 4150
 Connection ~ 7950 3725
 Wire Wire Line
 	6900 3625 7300 3625
@@ -762,29 +795,25 @@ Connection ~ 7000 3625
 $Comp
 L C C10
 U 1 1 5A16FAA0
-P 7550 3225
-F 0 "C10" H 7575 3325 50  0000 L CNN
-F 1 "C" H 7575 3125 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7588 3075 50  0001 C CNN
-F 3 "" H 7550 3225 50  0001 C CNN
-F 4 "Value" H 7550 3225 60  0001 C CNN "MFG Name"
-F 5 "Value" H 7550 3225 60  0001 C CNN "MFG Part Num"
-F 6 "Value" H 7550 3225 60  0001 C CNN "1st Distrib PN"
-F 7 "Value" H 7550 3225 60  0001 C CNN "1st Distrib Link"
-F 8 "Value" H 7550 3225 60  0001 C CNN "2nd Distrib PN"
-F 9 "Value" H 7550 3225 60  0001 C CNN "2nd Distrib Link"
-	1    7550 3225
+P 7550 3150
+F 0 "C10" H 7575 3250 50  0000 L CNN
+F 1 "0.01u" H 7575 3050 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7588 3000 50  0001 C CNN
+F 3 "" H 7550 3150 50  0001 C CNN
+F 4 "Value" H 7550 3150 60  0001 C CNN "MFG Name"
+F 5 "Value" H 7550 3150 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 7550 3150 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 7550 3150 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 7550 3150 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 7550 3150 60  0001 C CNN "2nd Distrib Link"
+	1    7550 3150
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6550 3625 6550 3225
-Wire Wire Line
-	6550 3225 7400 3225
+	6550 2900 6550 3625
 Wire Wire Line
 	6500 3625 6600 3625
 Connection ~ 6550 3625
-Wire Wire Line
-	7700 3225 7950 3225
 $Comp
 L Conn_01x02 J5
 U 1 1 5A17081D
@@ -898,4 +927,50 @@ Wire Wire Line
 	-600 5175 -600 5225
 Wire Wire Line
 	3075 3975 3075 3850
+$Comp
+L C C?
+U 1 1 5A2F632C
+P 7550 2900
+F 0 "C?" H 7575 3000 50  0000 L CNN
+F 1 "0.01u" H 7575 2800 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7588 2750 50  0001 C CNN
+F 3 "" H 7550 2900 50  0001 C CNN
+F 4 "Value" H 7550 2900 60  0001 C CNN "MFG Name"
+F 5 "Value" H 7550 2900 60  0001 C CNN "MFG Part Num"
+F 6 "Value" H 7550 2900 60  0001 C CNN "1st Distrib PN"
+F 7 "Value" H 7550 2900 60  0001 C CNN "1st Distrib Link"
+F 8 "Value" H 7550 2900 60  0001 C CNN "2nd Distrib PN"
+F 9 "Value" H 7550 2900 60  0001 C CNN "2nd Distrib Link"
+	1    7550 2900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6550 2900 7400 2900
+Wire Wire Line
+	7700 2900 7950 2900
+Wire Wire Line
+	7700 3150 7800 3150
+Wire Wire Line
+	7800 3150 7800 2900
+Connection ~ 7800 2900
+Wire Wire Line
+	7400 3150 7300 3150
+Wire Wire Line
+	7300 3150 7300 2900
+Connection ~ 7300 2900
+Text Notes 3025 4175 0    60   ~ 12
+NP
+Text Notes 4975 2600 0    60   ~ 12
+NP
+Text Notes 4575 2600 0    60   ~ 12
+NP
+Text Notes 3575 4175 0    60   ~ 12
+NP
+Text Notes 2475 4175 0    60   ~ 12
+NP
+Text Notes 4250 4525 0    60   ~ 0
+fl = 1/2 pi Rf Cf\nfl = 0.145 Hz (6.9 sec)
+Wire Wire Line
+	4325 2100 4325 3850
+Connection ~ 4325 3850
 $EndSCHEMATC
